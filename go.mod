@@ -1,6 +1,6 @@
 module github.com/vmware-tanzu/velero-plugin-for-csi
 
-go 1.23
+go 1.23.0
 
 toolchain go1.23.6
 
