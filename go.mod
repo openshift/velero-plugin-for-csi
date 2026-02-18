@@ -1,8 +1,6 @@
 module github.com/vmware-tanzu/velero-plugin-for-csi
 
-go 1.23.0
-
-toolchain go1.23.6
+go 1.25.3
 
 require (
 	github.com/evanphx/json-patch v5.6.0+incompatible
